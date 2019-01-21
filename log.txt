@@ -1,0 +1,39 @@
+
+======================
+Command: spotify-this-song
+Track: Another One Bites The Dust - Remastered 2011
+Album: The Game (Deluxe Remastered Version)
+Artist: Queen
+Preview: https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J
+======================
+======================
+Command: movie-this
+Title: Oldboy
+Year: 2003
+Rating:
+    IMDB: 8.4
+    Rotten Tomato: 80%
+Country: South Korea
+Language: Korean
+Actors: Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji
+Plot: After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+======================
+======================
+Command: do-what-it-says
+Title: Matrix
+Year: 1993–
+Rating:
+    IMDB: 8.2
+    Rotten Tomato: N/A
+Country: Canada
+Language: English
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+======================
+Track: Let There Be Rock
+Album: Let There Be Rock
+Artist: AC/DC
+Preview: https://open.spotify.com/track/753KutoAy00apPsplMRetG
+======================
+======================
+Command: do-what-it-says
