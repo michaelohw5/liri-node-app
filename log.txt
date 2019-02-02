@@ -37,3 +37,10 @@ Preview: https://open.spotify.com/track/753KutoAy00apPsplMRetG
 ======================
 ======================
 Command: do-what-it-says
+======================
+Command: spotify-this-song
+Track: Let There Be Rock
+Album: Let There Be Rock
+Artist: AC/DC
+Preview: https://open.spotify.com/track/753KutoAy00apPsplMRetG
+======================
