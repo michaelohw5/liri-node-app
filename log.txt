@@ -44,3 +44,22 @@ Album: Let There Be Rock
 Artist: AC/DC
 Preview: https://open.spotify.com/track/753KutoAy00apPsplMRetG
 ======================
+Title: Gangs of New York
+Year: 2002
+Rating:
+    IMDB: 7.5
+    Rotten Tomato: 74%
+Country: USA, Italy
+Language: English, Irish, Chinese, Latin
+Actors: Leonardo DiCaprio, Daniel Day-Lewis, Cameron Diaz, Jim Broadbent
+Plot: In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.
+======================
+======================
+Command: movie-this
+======================
+Command: do-what-it-says
+Track: Let There Be Rock
+Album: Let There Be Rock
+Artist: AC/DC
+Preview: https://open.spotify.com/track/753KutoAy00apPsplMRetG
+======================
