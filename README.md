@@ -11,10 +11,11 @@ liriBOT is a command prompt based tool using node, that allows users to search f
 You can use the command 'spotify-this-song' followed by a song title to get the information on the song.
 Example command: 'node spotify-this-song another one bites the dust'
 ## movie-this <movie title>
-
+![movie-this](https://github.com/michaelohw5/liri-node-app/blob/master/images/movie.PNG)
 Use 'movie-this' followed by a movie title to get the information on the movie.
 Example command: 'node movie-this matrix'
 ## do-what-it-says
+![do-what-it-says](https://github.com/michaelohw5/liri-node-app/blob/master/images/do.PNG)
 Reads random.txt and uses the command and the search term within to run the program
 Example command: 'node do-what-it-says'
 
