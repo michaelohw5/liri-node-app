@@ -2,8 +2,6 @@
 
 # What it does
 liriBOT is a command prompt based tool using node, that allows users to search for a song, or a movie.
-![spotify-this-song](./)
-***Picture comes out as broken - will fix in the future***
 
 # Commands
 ## spotify-this-song <song title>
@@ -20,4 +18,5 @@ Reads random.txt and uses the command and the search term within to run the prog
 Example command: 'node do-what-it-says'
 
 # Log.txt
+![Log.txt](https://github.com/michaelohw5/liri-node-app/blob/master/images/log.PNG)
 Every result of the searches performed are recorded onto the log.txt file.
